@@ -34,3 +34,5 @@
       Features: Add new employees (full-time or part-time), Remove employees by ID, Calculate and display 
                 salaries using polymorphism, Console-based interface for quick testing, Clean OOP structure 
                 for easy extensibility
+
+      How to run: javac App.java
